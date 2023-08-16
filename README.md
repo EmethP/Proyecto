@@ -8,4 +8,4 @@ Se necesita un sistema de información para la gestión de procesos en unidades 
 El sistema servira para la gestion y el control de los alumnos, docentes y personal administrativo
 
 ¿Como ejecutarlo?
-El proyecto se ejecutara via web
+El proyecto se ejecutara via php
